@@ -12,6 +12,22 @@ yarn dev
 pnpm dev
 ```
 
+
+## Additional Setup
+
+Before you start developing, make sure to add the following dependencies:
+
+typewriter-effect for adding typewriter style animations.
+framer-motion for advanced animations.
+You can install these packages using yarn:
+
+```bash
+
+yarn add typewriter-effect
+yarn add framer-motion
+
+```
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
